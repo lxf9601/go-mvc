@@ -1,7 +1,7 @@
 GoLang MVC Framework
 ========
 
-基于go语言的微服务开发框架
+基于go语言的微服务MVC开发框架
 
 ### 项目说明
 
