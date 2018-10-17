@@ -1,0 +1,16 @@
+{
+  "Mysql": {
+    "Url": "root:rrtt-rock@tcp(127.0.0.1:3306)/cparrow?autocommit=1&charset=utf8mb4&parseTime=true&loc=Asia%2FShanghai",
+    "MaxIdleConns": 10,
+    "MaxOpenConns": 100,
+    "ConnMaxLifetime": 3600
+  },
+  "Redis": {
+    "Addr": "127.0.0.1:6379",
+    "Password": "",
+    "DB": 0,
+    "KeyPrefix": "cpa:"
+  },
+  "LogLevel":"INFO",
+  "ServerURL": "0.0.0.0:8081"
+}

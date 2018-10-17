@@ -1,0 +1,3 @@
+body{font-size:13px;font-family: "Microsoft Sans Serif"}
+a{display:inline-block;max-width:500px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align: middle}
+.main-content{width:1000px;margin:0px auto;padding:20px}
